@@ -2,6 +2,9 @@
 
 Backend REST API for a Twitter-like application built with Spring Boot.
 
+Note: This repository contains the backend implementation of the project.
+The frontend was developed separately using React and integrated via REST APIs.
+
 ## 🚀 Features
 - User registration and login
 - Authentication and authorization using Spring Security
